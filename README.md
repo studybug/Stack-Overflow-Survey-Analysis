@@ -6,7 +6,9 @@ I decided to analyze the annual data from the public Stack Overflow Developer Su
 **Here are a few questions to the 2019 database I prompted:**
 - Question 1: What are the most common coding languages?  What are the least common coding languages?
 - Question 2: What is the job satisfaction with coding?
-- Question 3: What is the job satisfaction with JavaScript code (the code that is most in demand)?**
+- Question 3: What is the job satisfaction with JavaScript code (the code that is most in demand)?
+
+As a Udacity student, I created a blog post in response to my findings:
 
 
 You can find the official published results here:
@@ -14,3 +16,4 @@ You can find the official published results here:
 https://insights.stackoverflow.com/survey/2019
 
 This database - The Public 2019 Stack Overflow Developer Survey Results - is made available under the Open Database License (ODbL): http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+
