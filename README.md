@@ -10,6 +10,7 @@ I decided to analyze the annual data from the public Stack Overflow Developer Su
 
 As a Udacity student, I created a blog post in response to my findings:
 
+https://medium.com/@caleb.r.manske/are-you-afraid-of-coding-would-you-hate-a-coding-job-this-will-make-you-surprised-d5d8893590fe
 
 You can find the official published results here:
 
