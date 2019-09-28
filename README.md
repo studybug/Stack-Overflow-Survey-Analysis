@@ -1,5 +1,10 @@
 # Stack-Overflow-Survey-Analysis
 
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
 ## General info
 
 **Analysis of the Stack Overflow Developer Survey Results**
